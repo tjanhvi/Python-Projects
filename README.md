@@ -1,6 +1,6 @@
 # Python-Projects
 
-- [Band Name generator](https://github.com/tjanhvi/Python-Projects/tree/main/Band%20Name%20general)
+- [Band Name generator](https://github.com/tjanhvi/Python-Projects/tree/main/Band%20Name%20generator)
 - [Building a Sanke Game](https://github.com/tjanhvi/Python-Projects/tree/main/Building%20a%20Sanke%20Game)
 - [Draw a spirograph](https://github.com/tjanhvi/Python-Projects/tree/main/Draw%20a%20spirograph)
 - [Draw corona virus](https://github.com/tjanhvi/Python-Projects/tree/main/Draw%20corona%20virus )
